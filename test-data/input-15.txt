@@ -1,0 +1,5 @@
+# Test 15: ship runs out of torpedoes
+GT4500,1,0,1,0
+TORPEDO,SINGLE  # primary
+TORPEDO,SINGLE  # secondary
+TORPEDO,SINGLE  # both empty
