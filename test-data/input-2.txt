@@ -1,0 +1,5 @@
+# Test 2: stores alternate; failed shot affects only that shot
+GT4500,2,0,1,1.0
+TORPEDO,SINGLE  # primary
+TORPEDO,SINGLE  # secondary, fails
+TORPEDO,SINGLE  # primary again
